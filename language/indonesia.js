@@ -361,13 +361,13 @@ exports.colorfulpubg_ = (style) => {
     return `*Color Yg Kamu Masukkan Salah*\n\n_Berikut list color yg benar, Total_ *${style}* _color_\n\n`
 }
 exports.astronotspace = (prefix, command) => {
-    return `Contoh: ${prefix + command} nama|style\nUsage: ${prefix + command} zeeone|anubis`
+    return `Contoh: ${prefix + command} nama|style\nUsage: ${prefix + command} chaaannn|anubis`
 }
 exports.wallpaperaov = (prefix, command) => {
-    return `Contoh: ${prefix + command} nama|heroes\nUsage: ${prefix + command} zeeone|allain`
+    return `Contoh: ${prefix + command} nama|heroes\nUsage: ${prefix + command} chaaannn|allain`
 }
 exports.maketeamlogo = (style, style2, prefix, command) => {
-    return `Contoh: ${prefix + command} nama|${style}\nUsage: ${prefix + command} zeeone|${style2}`
+    return `Contoh: ${prefix + command} nama|${style}\nUsage: ${prefix + command} chaaannn|${style2}`
 }
 
 exports.MaketeamlogoT = (a, b, c, d, e, f, g, h) => {
@@ -733,7 +733,7 @@ exports.ownerOnly = () => {
 }
 
 exports.doneOwner = () => {
-    return `✅  ️Sudah selesai, Owner ~`
+    return `✅  ️Sudah selesai, Owner Sayang ~`
 }
 
 exports.groupOnly = () => {
@@ -741,7 +741,7 @@ exports.groupOnly = () => {
 }
 
 exports.adminOnly = () => {
-    return `🙅  Command ini hanya bisa digunakan oleh admin grup!`
+    return `🙅  Command ini Khusus admin grup, Lu TUH CUMA MEMBER!!!!`
 }
 
 exports.nhFalse = () => {
@@ -1852,12 +1852,7 @@ exports.listMenu2 = (prefix) => {
 ╭─❒ 「 TqTo 」 
 │○ My God
 │○ My Parents
-│○ Fatih A.
-│○ Ferdiz
-│○ DikaArdnt
-│○ Mhankbarbar
-│○ Nurutomo
-│○ ZeeoneOfc
+│○ Ayang
 │○ Penyedia Module
 ╰❒ And All Support
     `
@@ -1906,8 +1901,8 @@ Goodbye`
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://s.id/YouTube-Zeeoneofc
+Base : https://github.com/fika
+Recode : https://s.id/YouTube-Zafika
 `
 }
 exports.tos = (ownernomer) => {
