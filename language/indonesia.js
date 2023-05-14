@@ -1,5 +1,5 @@
 exports.onlyPrem = `Fitur khusus member premium`
-exports.aikey = `apikey open ai salah, silahkan ganti di settins.js`
+exports.aikey = `apikey open ai error`
 exports.DelSetWel = `Sukses delete set welcome di grup ini`
 exports.NoSetWel = `Belum ada set welcome di grup ini`
 exports.DelSetLeft = `Sukses delete set goodbye di grup ini`
