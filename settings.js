@@ -21,7 +21,7 @@ global.APIKeys = {
    'https://api.zeeoneofc.my.id': 'V12', // 👉 login https://api.zeeoneofc.my.id to get apikey
 }
 global.sewabotnya = `
-edit sewabot di file settings.js line 24
+chat ownernya kak
 `
 // setting 
 global.firtsChat = true //send firts message to new user
@@ -49,23 +49,23 @@ global.groupOnly = false //bot hanya bisa di gunakan dalam grup jika true
 //Available in indonesia , english & spanyol 
 //You can request others language 
 global.language = indonesia //change indonesia to english if you don't understand the language used by the bot
-//global.language = english // use this for English language
+global.language = english // use this for English language
 //global.language = spanyol // use this for Spanyol language
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://s.id/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.botname = "`Chaneedyou" //namabot kalian
+global.ownername = "CW" //nama kalian
+global.myweb = "https://s.id/chaaannn" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/@chaaann" //bebas asal jan hapus
+global.myweb2 = "https://s.id/chaaannn" //bebas
+global.email = "chandssi00@gmail.com@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.timezone = 'Asia/Makassar' //  timezone wib
-global.premium_fitur = ["ai", "openai", "chatgpt"] //tambahin aja sendiri, soalnya gk semua org mau fiturnya premium jadi gw buat kyk gini aja, biar bisa custom fitur mana aja yang bakal di jadiin premium
+global.timezone = 'Asia/Jakarta' //  timezone wib
+global.premium_fitur = ["hentai", "openai", "chatgpt"] //tambahin aja sendiri, soalnya gk semua org mau fiturnya premium jadi gw buat kyk gini aja, biar bisa custom fitur mana aja yang bakal di jadiin premium
 global.badword_list = ["asu", "anjir"] //tambahin sendiri kata² nya, gunakan huruf kecil
-global.premium = ['62887435047326'] //premium user
-global.owner = ["62887435047326", "62887435047326"] //ganti agar fitur owner bisa di gunakan
+global.premium = ['6283182628110'] //premium user
+global.owner = ["6282163403132", "6283182628110"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = owner[0] + "@s.whatsapp.net"
 global.ownernomerr = "+"+ownernomer //tidak perlu di edit
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
@@ -84,7 +84,7 @@ global.typemenu2 = 'image' //
 global.multiplier = 69
 global.limitawal = {
    premium: "Infinity", //unlimited
-   free: 100
+   free: 1000
 }
 global.buttonDefault = [{
    urlButton: {
